@@ -1,1 +1,2 @@
 com.example.keycloak.authenticator.CustomAttributeAuthenticatorFactory
+com.example.keycloak.authenticator.UserDataDisplayAuthenticatorFactory
